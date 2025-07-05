@@ -20,6 +20,17 @@ let no = 23
 let str = String(no)
 console.log(str);
 console.log(typeof str);
+str1="sougata"
+str2="hey"
+console.log(str2+ str1);
+console.log(1+"2");
+console.log("1"+2);
+let game=100
+++game
+console.log(game);
+
+
+
 
 
 
