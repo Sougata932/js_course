@@ -18,7 +18,7 @@ const newArr = anotherArr.flat(1) //(depth) or simply we can write (infinity) so
 console.log(newArr);
 
 console.log(Array.isArray("sougata"));
-console.log(Array.from("sougata"));
+console.log(Array.from("sougata")); //converts SOUGATA in to an array
 console.log(Array.from({name:"sougata"})); //will give empty array
 
 let sc1=100
